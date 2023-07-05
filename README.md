@@ -1,7 +1,6 @@
-Affirmations App - Starter Code
+Affirmations App
 ================================
-
-Starter code for the Android Basics with Compose: Affirmations app.
+It is an Affirmations app, which displays a list of affirmations paired with beautiful images to bring positivity to your day!
 
 
 Introduction
@@ -15,12 +14,8 @@ Pre-requisites
 * Experience building layouts with Jetpack Compose
 * Experience running apps on a device or emulator
 
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+Conclusion
+--------------
+  Applied the skill of creating cards, list items, and scrollable lists using Jetpack Compose!
 
 All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
